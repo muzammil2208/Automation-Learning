@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Muzammil/IdeaProjects/QA_Learning_Automation/src/test/java/Setup/AmazonTrial.java" parallel="classes" thread-count="3">
+    <classes>
+        <class name="Setup.AmazonTrial">
+
+    </class>
+        <class name="Setup.trial"></class>
+    </classes>
+</test>
+</suite>
